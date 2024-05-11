@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center; */
+    /* align-items: center; */
+    
+}
+.box{
+    margin-top: 50px;
+    width: auto;
+    border: solid 10px #1E3268;
+   
+}
+.weght{
+    width: 70px;
+    height: 60px;
+   
+}
+
+.calculate{
+    background-color: #1E3268;
+    color: white; 
+    height: 50px;
+    outline: lightblue;
+
+}
+.txt{
+    color: #1E3268;
+   
+}
